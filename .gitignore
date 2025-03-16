@@ -4,3 +4,4 @@ tf-env/
 .ipynb_checkpoints/
 .vscode/
 data/*/
+/*.ipynb
